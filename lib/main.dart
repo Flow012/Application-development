@@ -4,7 +4,11 @@ void main() {
   runApp(const MyApp());
 }
 
-class Mypp extends StatelessWidget {
+<<<<<<< Updated upstream
+class MyApp extends StatelessWidget {
+=======
+class Mpp extends StatelessWidget {
+>>>>>>> Stashed changes
   const MyApp({Key? key}) : super(key: key);
 
   @override
