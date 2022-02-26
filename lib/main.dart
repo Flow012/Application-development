@@ -13,3 +13,7 @@ class MyApp extends StatelessWidget {
   }
 }
 
+<<<<<<< Updated upstream
+=======
+// CCOMMENT ADDED AS NOTHING//
+>>>>>>> Stashed changes
